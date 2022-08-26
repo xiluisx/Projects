@@ -6,9 +6,15 @@
 
 <p>When i'm not coding, I like to cook, go out with friends, play chess, watch shows or listen to music. I'm also interested in learning new languages and hope one day i will be fluent in 5 or more languages.</p>
 
+<br />
+<br />
+
 ## Education
 <p>I finished highschool in 2022 with a certificate as a Technical Programmer. I'm currently in university as a Systems Engineering student.
 </p>
+
+<br />
+<br />
 
 ## Languages
 <p>My main language is Spanish, but I'm also fluent at English and have a TOEFL ITP score of 613.</p>
