@@ -10,6 +10,6 @@ Algunas de las funciones incluidas en el sitio web son: Traduccion en Inglés y 
 <br />
 <br />
 
-Disponible en: https://xiluisx.me/
+Disponible en: <ins style="color: blue">https://xiluisx.me/</ins>
 
 </div>
