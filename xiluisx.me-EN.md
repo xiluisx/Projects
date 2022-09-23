@@ -10,6 +10,6 @@ Some features included in the website are: Translation in English and Spanish, D
 <br />
 <br />
 
-Available at: <ins style="color: blue">https://xiluisx.me/</ins>
+Available at: <ins style="color: darkcyan">https://xiluisx.me/</ins>
 
 </div>
